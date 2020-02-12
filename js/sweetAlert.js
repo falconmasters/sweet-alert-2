@@ -1,3 +1,0 @@
-Swal.fire({
-	title: 'Bienvenido'
-});
